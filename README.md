@@ -1,8 +1,8 @@
 # bco_server
 
 To run the server:
-cd bco_server
-python manage.py runserver
+1) cd bco_server
+2) python manage.py runserver
 
 To test the API:
 1) download httpie
